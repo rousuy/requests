@@ -2,6 +2,9 @@
 
 **Requests** is a simple, yet elegant HTTP library.
 
+
+Alterando esta linha para teste
+
 ```python
 >>> import requests
 >>> r = requests.get('https://api.github.com/user', auth=('user', 'pass'))
